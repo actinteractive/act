@@ -8,4 +8,10 @@ body
 	padding: 0;
 }
 
-
+#container
+{
+	width: 30em;
+	margin: 10em auto;
+	padding: 3em;
+	background-color: #ccc;
+}
