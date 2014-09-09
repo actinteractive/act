@@ -12,6 +12,7 @@ body
 {
 	width: 30em;
 	margin: 10em auto;
-	padding: 3em;
+	padding: 3em 0;
 	background-color: #ccc;
+	text-align: center;
 }
